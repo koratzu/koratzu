@@ -2,7 +2,7 @@
 <h3 font-size="20" align="center">A passionate frontend developer and a student from Colombia.</h3>
 
 
-- 🌱 I’m currently learning **to develop my Creativity** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Dusknior/Dusknior/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **to develop my Creativity** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **React**
   
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [@Dusknior](github.com/Dusknior)
 
-- ⚡ Fun fact **Coding is a passion and my profession but also**
+- ⚡ Fun fact **Coding is a passion and my profession**
 
 
 ---
@@ -20,16 +20,14 @@
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N>.gif" width="30px">
+<img src="https://raw.githubusercontent.com/Dusknior/Dusknior/master/<smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N>.gif" width="30px">
 
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Dusknior/Dusknior/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
+
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -67,7 +65,7 @@
       alt="bootstrap"/>
   </a>
   <a href="http://getskeleton.com/" target="_blank">
-    <img src="https://img.shields.io/badge/skeleton-FEFFFE.svg?style=for-the-badge&logo=skeleton&logoColor=171619"
+    <img src="https://img.shields.io/badge/Skeleton-FEFFFE.svg?style=for-the-badge&logo=Skeleton&logoColor=171619"
       alt="skeleton"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
@@ -99,10 +97,6 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
@@ -173,13 +167,10 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/dbernalh/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://www.instagram.com/example" target="_blank">
+    <a href="https://www.instagram.com/danielbhttps" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-D22E74.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
   </div>
@@ -188,10 +179,10 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/example" target="_blank">
+  <a  href="https://t.me/Dusknior" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:danielbhttps@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
