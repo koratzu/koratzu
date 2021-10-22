@@ -1,18 +1,16 @@
-<h1 align="center">Hi, I'm Daniel Bernal<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
+<h1 align="center">Hello, I'm Daniel Bernal  <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate frontend developer and a student from Colombia.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Dusknior/Dusknior/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **to develop my Creativity** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Dusknior/Dusknior/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
+- 👯 I’m looking to collaborate on **React**
+  
+- 🤝 I’m looking for help with **Frontend Design**
 
 - 👨‍💻 All of my projects are available [@Dusknior](github.com/Dusknior)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Fun fact **Coding is a passion and my profession.**
 
 
 ---
@@ -20,7 +18,10 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N>.gif" width="30px">
+
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Dusknior/Dusknior/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
