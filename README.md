@@ -204,6 +204,6 @@
 </p>
 
 ------
-Credit: [Dusknior](https://github.com/Dusknior)
+Credit: [Elanza-48](https://github.com/Elanza-48)
 
 Last Edited on: 22/10/2021
