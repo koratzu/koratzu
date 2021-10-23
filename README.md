@@ -396,7 +396,7 @@ via GIPHY</a></p> -->
 ----
 
 <p align="center">  
-  ![svg](https://github.com/Dusknior/Dusknior/blob/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)
 </p> 
 
 ------
