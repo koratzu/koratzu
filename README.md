@@ -197,8 +197,7 @@ via GIPHY</a></p> -->
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Dusknior/Dusknior/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+ ![Snake animation](https://github.com/Dusknior/Dusknior/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ------
