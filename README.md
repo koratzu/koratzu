@@ -197,9 +197,9 @@ via GIPHY</a></p> -->
 
 ----
 
-<p align="center">
+
  [![](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)]
-</p> 
+
 
 ------
 Credit: [Elanza-48](https://github.com/Elanza-48)
