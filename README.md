@@ -197,8 +197,9 @@ via GIPHY</a></p> -->
 
 ----
 
-
- [![](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)]
+<div align="center">
+ ![](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)
+ </div>
 
 
 ------
