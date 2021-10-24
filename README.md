@@ -197,11 +197,10 @@ via GIPHY</a></p> -->
 
 ----
 
-<div align="center">
- ![](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)
- </div>
-
-
+<svg width="100%"  align="center">
+ ![Snake animation](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)
+ </svg>
+ 
 ------
 Credit: [Elanza-48](https://github.com/Elanza-48)
 
