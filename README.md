@@ -192,7 +192,7 @@
     alt="https://github.com/Elanza-48" />
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=material-palenight" alt="https://github.com/Dusknior" />
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusknior" />
- <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dusknior&layout=compact+" />
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dusknior&layout=compact+" />
 </div>
 
 ----
