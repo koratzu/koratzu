@@ -186,10 +186,12 @@
 ----
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Dusknior&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Dusknior)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=material-palenight)](https://github.com/Dusknior)
+<h2 style="margin: 5px 5px;">Github stats</h2> 
+ 
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Dusknior&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/Elanza-48" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=material-palenight" alt="https://github.com/Dusknior" />
 </div>
 
 ----
