@@ -24,7 +24,7 @@
  <img width="500rem" height="auto" src=https://github.com/Dusknior/Dusknior/blob/main/resources/img/giphy.gif alt="programming"/>
 </p>
 
-
+---
 
 <h3 align="center">Languages</h3>
 <p align="center">
