@@ -189,10 +189,10 @@
 <div align="center"> 
  <h2 style="margin: 5px 5px;">Github stats</h2> 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Dusknior&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-    alt="https://github.com/Elanza-48" />
+    alt="https://github.com/Dusknior" />
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=material-palenight" alt="https://github.com/Dusknior" />
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusknior" />
- <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dusknior&layout=compact+" />
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusknior" alt="https://github.com/Dusknior" />
+ <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dusknior&layout=compact+" alt="https://github.com/Dusknior" />
 </div>
 
 ----
