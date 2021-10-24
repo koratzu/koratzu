@@ -21,7 +21,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
- <img width="300rem" height="auto" src=https://github.com/Dusknior/Dusknior/blob/main/resources/img/giphy.gif alt="programming"/>
+ <img width="350rem" height="auto" src=https://github.com/Dusknior/Dusknior/blob/main/resources/img/giphy.gif alt="programming"/>
 </p>
 
 
