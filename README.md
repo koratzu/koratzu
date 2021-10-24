@@ -4,7 +4,7 @@
 <h3 font-size="20" align="center">A passionate frontend developer and a student from Colombia.</h3>
 
 
-- 🌱 I’m currently developing **my creativity into code** <img align="right" style="width:16rem; height:auto margin-bottom:2px" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently developing **my creativity into code** <img align="right" style="width:16rem; height:auto; margin-bottom:5px;" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **React**
   
