@@ -19,11 +19,8 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<!-- <iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-via GIPHY</a></p> -->
-
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+ <img width="500rem" height="auto" src=https://github.com/Dusknior/Dusknior/blob/main/resources/img/giphy.gif alt="programming"/>
 </p>
 
 
@@ -167,10 +164,10 @@ via GIPHY</a></p> -->
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://www.linkedin.com/in/dbernalh/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="likendin"/>
     </a>
     <a href="https://www.instagram.com/danielbhttps" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-D22E74.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Instagram-D22E74.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
     </a>
   </div>
 </div>
@@ -179,10 +176,10 @@ via GIPHY</a></p> -->
 
 <p align="center">
   <a  href="https://t.me/Dusknior" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="mailto:danielbhttps@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="outlook"/>
   </a>
 </p>
 
@@ -197,10 +194,11 @@ via GIPHY</a></p> -->
 
 ----
 
- <svg width="100%">
- ![](https://raw.githubusercontent.com/Dusknior/Dusknior/output/github-contribution-grid-snake.svg)
- </svg>
- 
+<div align="center">
+<img src="https://github.com/Dusknior/Dusknior/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>                                                                                                  
+
+
 ------
 Credit: [Elanza-48](https://github.com/Elanza-48)
 
