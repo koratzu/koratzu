@@ -185,11 +185,12 @@
 
 ----
 
-<h2 style="margin: 5px 5px;" align="center">Github stats</h2> 
-<div align="center" style="display: inline-block;"> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dusknior&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+
+<div align="center"> 
+ <h2 style="margin: 5px 5px;">Github stats</h2> 
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=Dusknior&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/Elanza-48" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=material-palenight" alt="https://github.com/Dusknior" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=material-palenight" alt="https://github.com/Dusknior" />
 </div>
 
 ----
