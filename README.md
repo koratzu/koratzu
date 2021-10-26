@@ -196,7 +196,7 @@
 ----
 
 <div align="center">
-<img src="https://github.com/Dusknior/Dusknior/blob/output/github-contribution-grid-snake.svg" alt="snake"/> .
+<img src="https://github.com/Dusknior/Dusknior/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>                                                                                                  
 
 
