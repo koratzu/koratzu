@@ -203,7 +203,7 @@
 ----
 
 <div align="center"> 
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusknior&theme=tokyonight&hide_border=true" alt="https://github.com/Dusknior" />
+ <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusknior&layout=compact&theme=tokyonight&hide_border=true" alt="https://github.com/Dusknior" />
  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dusknior&layout=compact+&theme=tokyonight&hide_border=true" alt="https://github.com/Dusknior" />
 </div>
 
