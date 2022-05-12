@@ -69,7 +69,7 @@
       alt="react"/> 
   </a>
  <a href="https://angular.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/angular-61DAFB.svg?style=for-the-badge&logo=angular&logoColor=white"
+    <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
       alt="angular"/> 
   </a>
   <a href="https://redux.js.org" target="_blank"> 
