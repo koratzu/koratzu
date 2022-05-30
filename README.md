@@ -4,7 +4,7 @@
 <h3 font-size="20" align="center">A passionate frontend developer and a student from Colombia.</h3>
 
 
-- 🌱 I’m currently learning how **to turn my creativity into code** <img align="right" style="width:8%; height:5%;" src="./resources/img/geek.gif"/>
+- 🌱 I’m currently learning how **to turn my creativity into code** <img align="right" style="width:2%; height:1%;" src="./resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **React & Angular**
   
