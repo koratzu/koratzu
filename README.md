@@ -4,13 +4,11 @@
 <h3 font-size="20" align="center">A passionate frontend developer and a student from Colombia.</h3>
 
 
-- 🌱 I’m currently learning how **to turn my creativity into code** 
-
-<img align="right" style="width:1rem; height:0.5rem;" src="./resources/img/geek.gif"/>
+- 🌱 I’m keep learning how **to turn my ideas into code** 
 
 - 👯 I’m looking to collaborate on **React & Angular**
   
-- 🤝 I’m looking for help with **Frontend Design**
+- 🤝 I’m looking for help with **Front-end Design**
 
 - 👨‍💻 All of my projects are available [@Dusknior](github.com/Dusknior)
 
