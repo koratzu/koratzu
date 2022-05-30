@@ -6,7 +6,7 @@
 
 - 🌱 I’m keep learning how **to turn my ideas into code** 
 
-<img align="right" width="3rem" height="1.5rem" src="./resources/img/geek.gif"/>
+<img align="right" width="16rem" height="14rem" src="./resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **React & Angular**
   
