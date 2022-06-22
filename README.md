@@ -1,5 +1,5 @@
 <p align="center">  
- <img width="200rem"; height="auto" src="./resources/img/Coding.gif"/>
+ <img width="200rem"; height="300rem" src="./resources/img/Coding.gif"/>
  <h1 align="center">Hello, I'm Daniel Bernal!  <img width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate front-end developer and a student from Colombia.</h3>
 
