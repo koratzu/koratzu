@@ -200,7 +200,7 @@
  <h2 style="margin: 5px 5px;">Github stats</h2> 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=koratzu&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/koratzu" />
-  <img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=koratzu&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=koratzu&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
 </div>
 
 ----
