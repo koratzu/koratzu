@@ -10,7 +10,7 @@
   
 - 🤝 I’m looking for help with **Front-end Design**
 
-- 👨‍💻 All of my projects are available [@Dusknior](github.com/Dusknior)
+- 👨‍💻 All of my projects are available [@koratzu](github.com/koratzu)
 
 - ⚡ Fun fact **drinking coffee and coding is "my best place"**
 <br>
@@ -21,7 +21,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
- <img width="350rem" height="auto" src=https://github.com/Dusknior/Dusknior/blob/main/resources/img/giphy.gif alt="programming"/>
+ <img width="350rem" height="auto" src=https://github.com/koratzu/koratzu/blob/main/resources/img/giphy.gif alt="programming"/>
 </p>
 
 
@@ -139,10 +139,10 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/Dusknior" target="_blank">
+  <a href="https://github.com/koratzu" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Dusknior" target="_blank">
+  <a href="https://gitlab.com/koratzu" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
@@ -183,7 +183,7 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/Dusknior" target="_blank">
+  <a  href="https://t.me/koratzu" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="mailto:danielbhttps@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
@@ -196,23 +196,23 @@
 
 <div align="center"> 
  <h2 style="margin: 5px 5px;">Github stats</h2> 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dusknior&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-    alt="https://github.com/Dusknior" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dusknior&theme=tokyonight&hide_border=true" alt="https://github.com/Dusknior" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=koratzu&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/koratzu" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=koratzu&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
 </div>
 
 ----
 
 <div align="center">
-<img src="https://github.com/Dusknior/Dusknior/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+<img src="https://github.com/koratzu/koratzu/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>                                                                                                  
 
  
 ----
 
 <div align="center"> 
- <img width="35.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusknior&layout=compact&theme=tokyonight&hide_border=true" alt="https://github.com/Dusknior" />
- <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dusknior&layout=compact+&theme=tokyonight&hide_border=true" alt="https://github.com/Dusknior" />
+ <img width="35.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koratzu&layout=compact&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
+ <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=koratzu&layout=compact+&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
 </div>
 
 
