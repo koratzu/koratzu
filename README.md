@@ -200,7 +200,7 @@
  <h2 style="margin: 5px 5px;">Github stats</h2> 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=koratzu&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/koratzu" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=koratzu&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
+  <img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=koratzu&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
 </div>
 
 ----
@@ -213,8 +213,7 @@
 ----
 
 <div align="center"> 
- <img width="35.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koratzu&layout=compact&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
- <figure><embed src="https://wakatime.com/share/@koratzu/ff0a5d5a-2156-48b8-a1bb-39f2133c0c77.svg"></embed></figure>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koratzu&layout=compact&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" />
 <!--  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=koratzu&layout=compact+&theme=tokyonight&hide_border=true" alt="https://github.com/koratzu" /> -->
 </div>
 
