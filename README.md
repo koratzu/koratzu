@@ -176,9 +176,6 @@
     <a  href="https://www.linkedin.com/in/dbernalh/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="likendin"/>
     </a>
-    <a href="https://www.instagram.com/danielbhttps" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-D22E74.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-    </a>
   </div>
 </div>
 
