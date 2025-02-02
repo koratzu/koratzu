@@ -1,14 +1,14 @@
 <p align="center">  
  <img width="200rem"; height="200rem" src="./resources/img/geek.gif"/>
  <h1 align="center">Hello, I'm Daniel Bernal!  <img width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate front-end developer and a student from Colombia.</h3>
+<h3 font-size="20" align="center">A passionate front-end developer and a system engineer from Colombia.</h3>
 
 
 - 🌱 I’m keep learning how **to turn my ideas into code** 
 
 - 👯 I’m looking to collaborate on **React & Angular**
   
-- 🤝 I’m looking to help with **Frontend Design**
+- 🤝 I’m looking to help with **UI/UX**
 
 - 👨‍💻 All of my projects are available [@koratzu](github.com/koratzu)
 
